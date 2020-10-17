@@ -20,4 +20,6 @@ Week 8: https://cs50.harvard.edu/x/2020/weeks/8/
 
 The Problem Sets above were required to pass the course. I am not allowed to put my code online for public viewing.
 
+Youtube Video Demonstrations for these problem sets would reveal all the code, this is why I have no link avaliable for demonstrations.
+
 I have completed this course and recieved a verified certificate through EDX.
